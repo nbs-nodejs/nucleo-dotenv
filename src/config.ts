@@ -1,7 +1,7 @@
 import { readFile, writeFile, existsSync } from "fs";
 import { promisify } from "util";
 import { parse, stringify } from "envfile";
-import { ByteEncoding, SecureGenerator, RandomStringOption } from "@nucleo-nodejs/data";
+import { ByteEncoding, SecureGenerator, RandomStringOption } from "@nbsdev/nucleo-data";
 import { v4 as uuidv4 } from "uuid";
 
 const asyncReadFile = promisify(readFile);

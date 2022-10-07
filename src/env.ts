@@ -1,4 +1,4 @@
-import { Parser } from "@nucleo-nodejs/data";
+import { Parser } from "@nbsdev/nucleo-data";
 import { EnvError } from "./error";
 
 export const Env = {
