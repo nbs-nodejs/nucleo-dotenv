@@ -1,4 +1,4 @@
-# @nucleo-nodejs/dotenv
+# @nbsdev/nucleo-dotenv
 
 .env Utility for Node.js. Written in TypeScript
 
